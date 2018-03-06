@@ -18,7 +18,7 @@
    "name": "__MSG_name__",
    "permissions": [ "webRequestBlocking", "webRequest", "cookies", "webNavigation", "tabs", "http://*/*", "https://*/*", "downloads" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "2018.2.27.1",
+   "version": "2018.3.6.1",
    "author": "Plugtopus Agency",
    "homepage_url": "https://plugtopus.agency"
 }
